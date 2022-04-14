@@ -1,8 +1,6 @@
-- 👋 Hi, I’m karim ayyad, i'm a biologist and learning CS on my own.
-- 👀 I’m currently working on a new social media app for people who like to cook 
-- 🌱 I’m currently learning django
-- 🌱 I’m currently learning angular
-- 🌱 I’m currently learning python
+- 👋 Hi, I’m karim ayyad, i'm a biologist, self-taught programmer, and soon data scientist
+- 👀 I’m currently learning on udemy data science and ML bootcamp
+- 🌱 I’m currently learning tensorflow ML
 - 📫 How to reach me: by karimayad16@gmail.com
 
 <!---
